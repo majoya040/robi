@@ -3,8 +3,41 @@
     margin: 0px;
 }
 
+/*global css*/
+.col-lg-6{
+    text-align: right;
+    margin: 0px 0px 0px 45px;
+}
 body{
     font-size: 14px;
     line-height: 24px;
 }
 
+.header{
+    width: 100%;
+    text-align: center;
+}
+
+.form{
+    width: 100%;
+    padding: 0px 0px 0px 100px;
+
+}
+
+.form .form-group{
+    width: 50%;
+    text-align: center;
+    margin: 0px 0px 0px 170px;
+}
+
+.form .form-group .form-control{
+    width: 200px;
+    text-align: center;
+    margin: 0px 0px 0px 200px;
+}
+
+.form .form-group .button{
+    width: 100%;
+    padding: 0px 0px 0px 80px;
+    text-align: center;
+}
